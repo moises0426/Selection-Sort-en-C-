@@ -1,0 +1,16 @@
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\bin\Debug\net8.0-windows\SelectionSortWindForm.exe
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\bin\Debug\net8.0-windows\SelectionSortWindForm.deps.json
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\bin\Debug\net8.0-windows\SelectionSortWindForm.runtimeconfig.json
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\bin\Debug\net8.0-windows\SelectionSortWindForm.dll
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\bin\Debug\net8.0-windows\SelectionSortWindForm.pdb
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\SelectionSortWindForm.Form1.resources
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\SelectionSortWindForm.csproj.GenerateResource.cache
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\SelectionSortWindForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\SelectionSortWindForm.AssemblyInfoInputs.cache
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\SelectionSortWindForm.AssemblyInfo.cs
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\SelectionSortWindForm.csproj.CoreCompileInputs.cache
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\SelectionSortWindForm.dll
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\refint\SelectionSortWindForm.dll
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\SelectionSortWindForm.pdb
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\SelectionSortWindForm.genruntimeconfig.cache
+C:\Users\Moises\source\repos\SelectionSortWindForm\SelectionSortWindForm\obj\Debug\net8.0-windows\ref\SelectionSortWindForm.dll
